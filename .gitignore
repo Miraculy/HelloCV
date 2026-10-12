@@ -2,3 +2,4 @@
 UnitConverter/build/
 # 忽略编辑器的文件
 .idea/
+.vscode/
