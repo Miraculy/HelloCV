@@ -1,0 +1,4 @@
+# 忽略掉编译产物所在目录
+UnitConverter/build/
+# 忽略编辑器的文件
+.idea/

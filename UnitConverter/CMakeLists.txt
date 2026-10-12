@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 4.2)
+project(UnitConverter)
+add_subdirectory(unitlib)
+add_executable(UnitConverter src/main.cpp)
+target_link_libraries(UnitConverter unitlib)

@@ -9,12 +9,35 @@
  - 安装 Ubuntu 以及相关环境。
  - 练习使用 Git 以及相关开发工具
 
-相关笔记链接：
+### 相关笔记链接：
 
  - [《Re:从零开始的 Linux 学习与实践记录》](https://www.yuque.com/miraculy/rb2ggo/ns2du1q333yt42g0?singleDoc#)
  - [《Re:从零开始的 Git 基础学习》](https://www.yuque.com/miraculy/rb2ggo/zhbc2denaavg0sht?singleDoc#)
  - [《Git 实战练习》](https://www.yuque.com/miraculy/rb2ggo/igd3ih13q8076r8v?singleDoc#)
 
-相关仓库链接：
+### 相关仓库链接：
 
  - [Miraculy/git_training](https://github.com/Miraculy/git_training) 
+
+## 第二周学习内容
+
+ - 练习使用 CMake
+ - 练习使用 LLM & Agent
+
+### 相关笔记链接：
+
+ - [《CMake实践》](https://www.yuque.com/miraculy/rb2ggo/uhyvg0s0bd68cc1y)
+
+### 相关内容：
+
+[单位转换器UnitConverter Readme](UnitConverter/Readme.md)：
+
+```
+
+单位转换器UnitConverter
+
+基于 C++ 制作，使用 CMake 进行构建。
+
+基于自研单位转换库进行单位转换，详细内容可以自行查看源码。
+
+```
