@@ -27,6 +27,7 @@
 ### 相关笔记链接：
 
  - [《CMake实践》](https://www.yuque.com/miraculy/rb2ggo/uhyvg0s0bd68cc1y)
+ - [《CMake从入门到弃坑》](https://www.yuque.com/miraculy/rb2ggo/naqmyqspafg7ctyl)
 
 ### 相关内容：
 
