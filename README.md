@@ -47,3 +47,11 @@
 基于自研单位转换库进行单位转换，详细内容可以自行查看源码。
 
 ```
+
+## 第三周学习内容
+
+ - ROS2 的学习与使用
+
+### 相关笔记链接：
+
+ - [《ROS2 初见实录》](https://www.yuque.com/miraculy/rb2ggo/tbqiwayuhdo0e2vu?singleDoc#)
